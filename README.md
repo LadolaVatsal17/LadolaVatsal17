@@ -1,4 +1,4 @@
-### Hi there, I'm Ladola Vatsal- LadolaVatsal17] 👋
+### Hi there, I'm Ladola Vatsal-  👋
 
 ## I'm a Developer!
 
