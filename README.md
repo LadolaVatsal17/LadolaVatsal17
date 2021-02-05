@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently learning Android & Flutter!
-- 🥅 2020 Goals: Become proficient in Android
+- 🔭 I’m currently Working on Asp.net
+- 🥅 2021 Goals: Become proficient in Asp.net
 - ⚡ Fun fact: I love streaming games
 
 ### Connect with me:
