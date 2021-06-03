@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently Working on Asp.net
-- 🥅 2021 Goals: Become proficient in Asp.net
+- 🔭 I’m currently Working on Laravel,Android
+- 🥅 2021 Goals: Become proficient in Android & Laravel
 - ⚡ Fun fact: I love streaming games
 
 ### Connect with me:
